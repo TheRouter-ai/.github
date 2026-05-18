@@ -5,16 +5,14 @@ Global AI access layer
 TheRouter is a global AI access layer focused on reliability, cost visibility, and governance. We aim to make leading China-developed models available to global developers—alongside other top providers—through **one API and one bill**.
 
 ### What you get
-
 - Unified OpenAI-compatible API surface
 - One API / one bill for global models
-- Routing + failover + stability-first design
+- Routing + failover
 - Cost controls and usage visibility
 - Governance: environments, quotas, auditability
 - Model breadth: bring China-developed models to global workloads
 
 ### Quickstart
-
 Docs: https://therouter.ai/docs/
 
 ```bash
@@ -28,12 +26,10 @@ curl https://api.therouter.ai/v1/chat/completions \
 ```
 
 ### Repo map
-
 - therouter-sdk — SDKs and client utilities
 - therouter-examples — integrations and workflows
 - awesome-chinese-ai-models — China-developed models ecosystem index
 
 ### Status & feedback
-
 - Issues: https://github.com/TheRouter-ai/.github/issues
 - Support: hello@therouter.ai
