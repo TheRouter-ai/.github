@@ -13,7 +13,7 @@ TheRouter is a global AI access layer focused on reliability, cost visibility, a
 - Model breadth: bring China-developed models to global workloads
 
 ### Quickstart
-Docs: https://therouter.ai/docs/
+Docs: [https://therouter.ai/docs/?_tk=Z30eO1Ub](https://therouter.ai/docs/)
 
 ```bash
 curl https://api.therouter.ai/v1/chat/completions \
